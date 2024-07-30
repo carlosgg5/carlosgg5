@@ -10,8 +10,7 @@
 - 🌱 Actualmente estoy estudiando y practicando lenguaje Python, SQL y herramientas de machine learning en el bootcamp de Data science de Tripleten.
 
 
-- 
-
+  
 <h3 align="left">¿Quieres contactar conmigo?:</h3>
 <p align="left">
 
