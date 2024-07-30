@@ -9,12 +9,14 @@
 
 - 🌱 Actualmente estoy estudiando y practicando lenguaje Python, SQL y herramientas de machine learning en el bootcamp de Data science de Tripleten.
 
-- 📫 Me puedes contactar en:
-- **carlos_glz5@hotmail.com**
-[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlosgonzalezg5/)
-<h3 align="left">Connect with me:</h3>
+
+- 
+
+<h3 align="left">¿Quieres contactar conmigo?:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/carlosgonzalezg5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="carlosgonzalezg5" height="30" width="40" /></a>
+[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlosgonzalezg5/)
+
+  **carlos_glz5@hotmail.com**
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
