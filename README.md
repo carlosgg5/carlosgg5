@@ -5,12 +5,13 @@
 <h1 align="center">Hola 👋, soy Carlos Gonzalez</h1>
 <h3 align="center">Un profesional en la industria automotriz realizando una transición en mi carrera profesional a Data Science</h3>
 
-- 🔭 Actualmente estoy trabajando **en el área de calidad de una empresa del ramo automotriz**
+- 🔭 Actualmente estoy trabajando en el área de calidad en la industria automotriz, buscando una oportunidad para desarrollarme en el área de ciencia de datos.
 
-- 🌱 Actualmente estoy estudiando y practicando **lenguaje Python, SQL y herramientas de machine learning.**
+- 🌱 Actualmente estoy estudiando y practicando lenguaje Python, SQL y herramientas de machine learning en el bootcamp de Data science de Tripleten.
 
-- 📫 Me puedes contactar en: **carlos_glz5@hotmail.com**
-
+- 📫 Me puedes contactar en:
+- **carlos_glz5@hotmail.com**
+[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlosgonzalezg5/)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/carlosgonzalezg5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="carlosgonzalezg5" height="30" width="40" /></a>
