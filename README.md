@@ -3,7 +3,12 @@
 </div>
 
 <h1 align="center">Hola 👋, soy Carlos Gonzalez</h1>
-<h3 align="center">Un profesional en la industria automotriz realizando una transición en mi carrera profesional a Data Science</h3>
+
+---
+ <div id="header" align="left">
+
+### :man_technologist: Sobre mí :
+Un profesional en la industria automotriz realizando una transición en mi carrera profesional a Data Science.
 
 - 🔭 Actualmente estoy trabajando en el área de calidad en la industria automotriz, buscando una oportunidad para desarrollarme en el área de ciencia de datos.
 
