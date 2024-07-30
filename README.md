@@ -25,3 +25,7 @@ Un profesional en la industria automotriz realizando una transición en mi carre
 ### :hammer_and_wrench: Lenguajes y herramientas :
  
 [![My Skills](https://skillicons.dev/icons?i=py,sklearn,tensorflow,vscode,pytorch,powershell,anaconda,github)](https://skillicons.dev)
+
+---
+
+### :fire: Lenguajes y herramientas :
