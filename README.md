@@ -3,7 +3,6 @@
 </div>
 
 <h1 align="center">Hola 👋, soy Carlos Gonzalez</h1>
-
 ---
  <div id="header" align="left">
 
