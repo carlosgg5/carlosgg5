@@ -14,7 +14,8 @@
 
 <h3 align="left">¿Quieres contactar conmigo?:</h3>
 <p align="left">
-[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlosgonzalezg5/)
+
+  [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlosgonzalezg5/)
 
   **carlos_glz5@hotmail.com**
 </p>
