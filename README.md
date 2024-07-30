@@ -28,4 +28,6 @@ Un profesional en la industria automotriz realizando una transición en mi carre
 
 ---
 
-### :fire: Lenguajes y herramientas :
+### :fire: Mis estadísticas :
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=carlosgg5&theme=dark&background=000000)](https://git.io/streak-stats)
